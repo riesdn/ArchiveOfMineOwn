@@ -5,5 +5,7 @@ using System.Threading.Tasks;
 
 namespace ArchiveOfMineOwn.Models {
     public class Tag {
+    
+        
     }
 }
